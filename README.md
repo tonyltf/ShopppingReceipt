@@ -1,1 +1,1 @@
-# ShopppingRecepit
+# ShopppingReceipt
